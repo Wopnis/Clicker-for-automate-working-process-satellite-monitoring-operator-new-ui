@@ -1,0 +1,15 @@
+certifi==2026.7.22
+charset-normalizer==3.5.2
+greenlet==3.5.6
+idna==3.20
+playsound3==3.3.2
+pyee==13.0.1
+PyQt6==6.11.0
+PyQt6-Qt6==6.11.2
+PyQt6_sip==13.13.0
+python-dotenv==1.2.4
+pytz==2026.5
+pywin32==312
+requests==2.34.2
+typing_extensions==4.16.0
+urllib3==2.8.0
